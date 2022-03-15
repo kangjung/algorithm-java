@@ -29,6 +29,7 @@ public class baekjoon1725 {
 			}
 			stack.push(i);
 		}
+		
 		System.out.println(result);
     }
 }
