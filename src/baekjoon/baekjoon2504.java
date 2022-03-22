@@ -5,9 +5,9 @@ import java.util.*;
 
 //https://www.acmicpc.net/problem/2504
 public class baekjoon2504 {
-    public static void main(String[] args) throws IOException {
-    	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    	Stack<String> stack = new Stack<>();
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		Stack<String> stack = new Stack<>();
 		String s = br.readLine();
 		String[] arr = s.split("");
 		int result = 0;
@@ -53,8 +53,8 @@ public class baekjoon2504 {
 				}
 			}
 		}
-        
-        while(!stack.isEmpty()) {
+		
+		while(!stack.isEmpty()) {
 			String peek = stack.peek();
 			if (")".equals(peek) || "]".equals(peek) || "(".equals(peek) || "[".equals(peek)) {
 				result = 0;
