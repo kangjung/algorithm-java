@@ -7,8 +7,8 @@ public class leetcode91 {
 		System.out.println(new leetcode91().numDecodings("226"));
 		System.out.println(new leetcode91().numDecodings("06"));
 	}
-
-    public int numDecodings(String s) {
+	
+	public int numDecodings(String s) {
 		int result = 0;
 		int size = s.length();
 		int[] arr = new int[size];
