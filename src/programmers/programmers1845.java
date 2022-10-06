@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.ArrayList;
 
-//https://programmers.co.kr/learn/courses/30/lessons/86051
+//https://school.programmers.co.kr/learn/courses/30/lessons/1845
 public class programmers1845 {
 	public static void main(String[] args) throws Exception {
 		System.out.println(new programmers1845().solution(new int[] { 3, 1, 2, 3 }));
