@@ -4,7 +4,7 @@
 ## [LeetCode](https://leetcode.com/)
 [LeetCode](https://github.com/kangjung/algorithm-java/tree/master/src/leetcode)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kangjung?theme=light&font=Basic&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kangjung?theme=dark&font=ABeeZee&ext=heatmap)
 
 ## [baekjoon](https://www.acmicpc.net/)
 [baekjoon](https://github.com/kangjung/algorithm-java/tree/master/src/baekjoon)
